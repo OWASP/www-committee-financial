@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Fiona Collins](mailto://fiona.collins@owasp.org)
+* [Bil Corry](mailto://bil.corry@owasp.org)
+
