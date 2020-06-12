@@ -12,4 +12,4 @@ The OWASP Compliance Committee is responsible for receiving and investigating co
 
 The OWASP Whistleblower & Anti-Retaliation Policy can be found here:
 
-https://owasp.org/www-policy/operational/whistleblower
+[https://owasp.org/www-policy/operational/whistleblower](https://owasp.org/www-policy/operational/whistleblower)
