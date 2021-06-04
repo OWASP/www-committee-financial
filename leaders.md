@@ -1,4 +1,4 @@
-### Committee Officers
+### Leaders
 * [Fiona Collins](mailto://fiona.collins@owasp.org) - Chair 
 <br>
 
