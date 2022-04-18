@@ -1,5 +1,6 @@
 ### Leaders
 * [Fiona Collins](mailto://fiona.collins@owasp.org) - Chair 
+* [Ricardo Griffith](mailto://l.bricardogriffith@owasp.org)
 <br>
 
 **Committee Member**
